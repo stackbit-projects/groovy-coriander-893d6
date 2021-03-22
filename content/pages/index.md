@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Page Title With Relevant Keywords
-  description: The preview of the Azimuth theme
+  description: 'Tell your visitors about '
   extra:
     - name: 'og:type'
       value: website
