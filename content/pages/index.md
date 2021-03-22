@@ -114,9 +114,6 @@ seo:
     - name: 'og:title'
       value: Facebook Title Here
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
-      keyName: property
     - name: 'og:image'
       value: /images/10.jpg
       keyName: property
