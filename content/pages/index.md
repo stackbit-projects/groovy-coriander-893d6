@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Page Title With Relevant Keywords
-  description: 'Tell your visitors about '
+  description: 'Tell your visitors a bit about this '
   extra:
     - name: 'og:type'
       value: website
