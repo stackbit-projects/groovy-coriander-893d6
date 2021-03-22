@@ -127,5 +127,9 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:description'
+      value: Write a short and enticing description of your page
+      keyName: property
+      relativeUrl: false
 layout: landing
 ---
