@@ -112,7 +112,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Facebook Title Here
+      value: Your SEO Friendly Webpage Name
       keyName: property
     - name: 'og:image'
       value: /images/10.jpg
