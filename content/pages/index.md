@@ -128,7 +128,7 @@ seo:
       value: images/hero.png
       relativeUrl: true
     - name: 'og:description'
-      value: Write a short and enticing description of your page
+      value: Write a short and enticing description of your content
       keyName: property
       relativeUrl: false
 layout: landing
