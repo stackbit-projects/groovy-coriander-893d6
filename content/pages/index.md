@@ -112,7 +112,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Your SEO Friendly Webpage Name
+      value: Your SEO Friendly Webpage Title
       keyName: property
     - name: 'og:image'
       value: /images/10.jpg
